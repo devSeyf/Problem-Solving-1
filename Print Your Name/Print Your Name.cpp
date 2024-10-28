@@ -6,7 +6,7 @@ void PrintName(string Name) {
 
 int main()
 {
-    PrintName("saifo");
+    PrintName("saifo");//OR SAIF OR SEYF OR DAIF
     return 0;
 
 }
